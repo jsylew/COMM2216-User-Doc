@@ -19,7 +19,7 @@ In this section, you will be able to create and export a Print-Ready booklet usi
   
 3. Select <b>Print</b> from the top menu so that the booklet is optimized for printing.
 
-![Select Print](https://github.com/jsylew/COMM2216-User-Doc/blob/gh-pages/assets/images/01-Starting-screen.png?raw=true "Set Print Media")
+![Select Print](https://github.com/jsylew/COMM2216-User-Doc/blob/gh-pages/assets/images/02-New-doc2.png?raw=true "Set Print Media")
 
 4. Fill in your <b>Project Details</b> in the form on the right side:
 * Type in the name of your project.
@@ -30,11 +30,11 @@ In this section, you will be able to create and export a Print-Ready booklet usi
 * Select the number of pages needed for your booklet.
 > <b>Note:</b> The number of pages for printing a booklet must be a multiple of 4. (4, 8, 12, etc.)
 
-![Project Details](https://github.com/jsylew/COMM2216-User-Doc/blob/gh-pages/assets/images/01-Starting-screen.png?raw=true "Set Project Details")
+![Project Details](https://github.com/jsylew/COMM2216-User-Doc/blob/gh-pages/assets/images/02-New-doc3.png?raw=true "Set Project Details")
 
 5. Select the <b>Bleed and Slug</b> drop-down menu in the right panel and set the bleed distance on all sides to 0.125 inches.
 > <b>Note:</b> Providing a bleed tells the printer where the edge of the page will be to allow the ink to cover the whole page, right up to the edge. The standard minimum bleed distance is 0.125 inches. This is the value that will be used in these instructions.
 
 6. Click <b>Create</b> to create your project.
 
-![Create](https://github.com/jsylew/COMM2216-User-Doc/blob/gh-pages/assets/images/01-Starting-screen.png?raw=true "Create Project")
+![Create](https://github.com/jsylew/COMM2216-User-Doc/blob/gh-pages/assets/images/02-New-doc4.png?raw=true "Create Project")
