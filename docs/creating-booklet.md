@@ -62,4 +62,8 @@ In this section, you will be able to create and export a Print-Ready booklet usi
 
     ![Final Export](https://github.com/jsylew/COMM2216-User-Doc/blob/gh-pages/assets/images/10-Export3-2.png?raw=true "Final Export")
 
+12. Your exported PDF should look something like this.
+    ><b>Note:</b> Notice the crop marks at the 4 corners of the page.
+
+    ![Booklet Sample](https://github.com/jsylew/COMM2216-User-Doc/blob/gh-pages/assets/images/11-Export4.png?raw=true "Sample PDF")
 
