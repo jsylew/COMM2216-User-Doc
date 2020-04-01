@@ -13,7 +13,7 @@ In this section, you will be able to create and export a Print-Ready booklet usi
     ![Create Document](https://github.com/jsylew/COMM2216-User-Doc/blob/gh-pages/assets/images/01-Starting-screen.png?raw=true "Create a new Document")
 
 2. Set your document size.
-    > <b>Note:</b> Letter size is the most commonly used aper size in North America.  These instructions will continue with letter size, but you may choose whichever size suits your project.
+    > <b>Note:</b> Letter size is the most commonly used paper size in North America.  These instructions will continue with letter size, but you may choose whichever size suits your project.
 
     ![Set Doc Size](https://github.com/jsylew/COMM2216-User-Doc/blob/gh-pages/assets/images/02-New-doc.png?raw=true "Set Document Size")
   
