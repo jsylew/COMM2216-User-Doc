@@ -41,13 +41,23 @@ In this section, you will be able to create and export a Print-Ready booklet usi
 
 7. [Optional] Adjust the size of the pasteboard under <b>InDesign > Preferences > Guides & Pasteboard.</b>
 
+![Pasteboard](https://github.com/jsylew/COMM2216-User-Doc/blob/gh-pages/assets/images/07-Pasteboard.png?raw=true "Adjust Pasteboard")
+
 8. Go to <b>File > Export</b> and the following window should appear.  Name your project in the <b>Save As</b> box, check that the specified format is <b>Adobe PDF (Print)</b> and click on the <b>Save</b> button in the bottom right.
 > <b>Note:</b> Printers most commonly request PDF file type for booklet printing.
 
+![Save As](https://github.com/jsylew/COMM2216-User-Doc/blob/gh-pages/assets/images/08-Export.png?raw=true "Save As")
+
 9. The <b>Export Adobe PDF</b> window will appear.  Choose <b>[Press Quality]</b> in the Adobe PDF Preset box and under the Pages box, select <b>All</b> and Export as <b>Pages</b>.
+
+![Export](https://github.com/jsylew/COMM2216-User-Doc/blob/gh-pages/assets/images/09-Export2.png?raw=true "Export")
 
 10. Navigate to the <b>Marks and Bleeds</b> tab on the left side of the same window.  Under the Marks box, select <b>Crop Marks</b> and under the Bleed and Slug box, select <b>Use Document Bleed Settings</b>.
 
+![Marks and Bleeds](https://github.com/jsylew/COMM2216-User-Doc/blob/gh-pages/assets/images/10-Export3.png?raw=true "Marks and Bleeds")
+
 11. Click the <b>Export</b> button to export your booklet as a pdf.
+
+![Final Export](https://github.com/jsylew/COMM2216-User-Doc/blob/gh-pages/assets/images/10-Export3-2.png?raw=true "Final Export")
 
 
