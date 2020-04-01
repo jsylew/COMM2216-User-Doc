@@ -19,7 +19,7 @@ These instructions will explain how to set up your own paragraph and character s
 
 ![Add Style](https://github.com/jsylew/COMM2216-User-Doc/blob/gh-pages/assets/images/15-Paragraph03.png?raw=true "Add Style")
 
-3. Double click on <b>Paragraph Style 1</b> and the <b>Paragraph Style Options</b> will open.
+3. Double click on <b>Paragraph Style 1</b> and the <b>Paragraph Style Options</b> window should open.
 
 ![Paragraph Style 1](https://github.com/jsylew/COMM2216-User-Doc/blob/gh-pages/assets/images/16-Paragraph04.png?raw=true "Paragraph Style 1")
 
