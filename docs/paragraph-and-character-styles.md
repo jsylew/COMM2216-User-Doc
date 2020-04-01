@@ -10,6 +10,8 @@ These instructions will explain how to set up your own paragraph and character s
 
 1. Turn on <b>Paragraph Styles</b> and <b>Character Styles</b> by navigating to <b>Window > Styles > Paragraph Styles</b>.  This will enable the toolbars.
 
+![Toolbars](https://github.com/jsylew/COMM2216-User-Doc/blob/gh-pages/assets/images/14-Paragraph02.png?raw=true "Toolbars")
+
 ## Setting Up a New Paragraph Style
 > <b>Note:</b> Paragraph styles are applied to entire paragraphs of text.
 
