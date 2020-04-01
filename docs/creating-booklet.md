@@ -35,6 +35,8 @@ In this section, you will be able to create and export a Print-Ready booklet usi
 5. Select the <b>Bleed and Slug</b> drop-down menu in the right panel and set the bleed distance on all sides to 0.125 inches.
 > <b>Note:</b> Providing a bleed tells the printer where the edge of the page will be to allow the ink to cover the whole page, right up to the edge. The standard minimum bleed distance is 0.125 inches. This is the value that will be used in these instructions.
 
+![Bleed](https://github.com/jsylew/COMM2216-User-Doc/blob/gh-pages/assets/images/03-Bleed.png?raw=true "Bleed")
+
 6. Click <b>Create</b> to create your project.
 
 ![Create](https://github.com/jsylew/COMM2216-User-Doc/blob/gh-pages/assets/images/02-New-doc4.png?raw=true "Create Project")
