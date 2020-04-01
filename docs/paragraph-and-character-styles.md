@@ -33,7 +33,7 @@ These instructions will explain how to set up your own paragraph and character s
 
 7. Navigate to the <b>Character Color</b> tab and set the text colour.
 
-8. Click <b>OK</b> to save your styling choices for your new Paragraph Style.
+8. Click <b>OK</b> on the bottom right side of the Paragraph Style Options window to save your styling choices for your new Paragraph Style.
 
 ## Setting Up a New Character Style
 
