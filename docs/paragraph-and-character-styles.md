@@ -53,6 +53,18 @@ These instructions will explain how to set up your own paragraph and character s
 
 > <b>Note:</b> Character Styles are applied to selecter letters, words or phrases within a paragraph.
 
+9. Navigate to the [Character Styles] tab and click on the <b>[+]</b> icon in the bottom right corner to create a new Character Style.
 
+10. Double click on the newly created [Character Style 1] option and the "Character Style Options" window will appear.
+
+11. Under the [General] tab, you can customize the style name.  In this tutorial we will name the style 'Bold Red'.
+
+12. Navigate to the [Basic Character Formats] tab to change font family to 'Lato' and font style to 'bold'.
+
+13. Navigate to the [Character Colour] tab and select the text colour red, for this example.
+
+14. Click <b>OK</b> in the bottom right corner of the window to save your new character style.  
+
+When your finished 'Bold Red' character style is applied to text it should look like the word 'Bacon' in the image below.
 
 
