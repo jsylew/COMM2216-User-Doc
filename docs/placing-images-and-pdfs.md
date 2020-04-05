@@ -4,11 +4,19 @@ title: Placing Images and PDFs in a File
 nav_order: 11
 ---
 
-## Placing Images and PDFs in a File
+# Placing Images and PDFs in a File
+
+## Table of contents
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+---
 
 The following instructions will outline the steps for adding images and external PDF files to your booklet.
 
-# Placing images in a file
+## Placing images in a file
 
 1. Go to [File] > [Place...] and the "Place" window will appear.
 
@@ -19,7 +27,7 @@ The following instructions will outline the steps for adding images and external
 4. Click on your image and navigate to the [Links] panel. Check the [Effective PPI] value and consider decreasing your image size if it is less than 300.
 ><b>Note:</b> The minimum standard resolution for printed images is 300 PPI (pixels per inch).
 
-# Placing PDFs in a file
+## Placing PDFs in a file
 
 5. Go to [File] > [Place...] and the "Place" window will appear.
 
