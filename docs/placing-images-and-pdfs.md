@@ -44,7 +44,7 @@ The following instructions will outline the steps for adding images and external
 
 5. Go to [File] > [Place...] and the "Place" window will appear.
 
-    ![Place](https://github.com/jsylew/COMM2216-User-Doc/blob/gh-pages/assets/images/01-Place PDF.png?raw=true "Placing PDF")
+    ![Place](https://github.com/jsylew/COMM2216-User-Doc/blob/gh-pages/assets/images/01-Place.png?raw=true "Placing PDF")
 
 6. Select the PDF file you would like to add to your document from whichever directory it is stored in.
 
