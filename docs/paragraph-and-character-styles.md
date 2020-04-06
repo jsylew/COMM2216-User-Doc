@@ -41,7 +41,7 @@ These instructions will explain how to set up your own paragraph and character s
 * Size - 30 pt
 * Leading Space - 38 pt
 
-    The values given above are specified for the purpose of following this example. You can customize the characteristics to suit the needs of your own project.
+The values given above are specified for the purpose of following this example. You can customize the characteristics to suit the needs of your own project.
 
     ![Paragraph Formats](https://github.com/jsylew/COMM2216-User-Doc/blob/gh-pages/assets/images/18-Paragraph06.png?raw=true "Paragraph Formats")
 
@@ -51,7 +51,7 @@ These instructions will explain how to set up your own paragraph and character s
 * Space After - 0 in
 * Space Between Paragraphs Using Same Style - Ignore
 
-    The values given above are specified for the purpose of following this example. You can customize the characteristics to suit the needs of your own project.
+The values given above are specified for the purpose of following this example. You can customize the characteristics to suit the needs of your own project.
 
     ![Indents and Spacing](https://github.com/jsylew/COMM2216-User-Doc/blob/gh-pages/assets/images/19-Paragraph07.png?raw=true "Indents and Spacing")
 
@@ -61,34 +61,38 @@ These instructions will explain how to set up your own paragraph and character s
 
 8. Click <b>OK</b> on the bottom right side of the Paragraph Style Options window to save your styling choices for your new Paragraph Style.
 
+When your finished 'Heading 1' paragraph style is applied to text it should look like the title 'Heading 1' in the sample image below.
+
+    ![Heading 1](https://github.com/jsylew/COMM2216-User-Doc/blob/gh-pages/assets/images/heading1.png?raw=true "Paragraph Style Sample")
+
 ## Setting Up a New Character Style
 
 > <b>Note:</b> Character Styles are applied to selecter letters, words or phrases within a paragraph.
 
-9. Navigate to the [Character Styles] tab and click on the <b>[+]</b> icon in the bottom right corner to create a new Character Style.
+1. Navigate to the [Character Styles] tab and click on the <b>[+]</b> icon in the bottom right corner to create a new Character Style.
 
-    ![New Character Style](https://github.com/jsylew/COMM2216-User-Doc/blob/gh-pages/assets/images/10-New character style.png?raw=true "New Character Style")
+    ![New Character Style](https://github.com/jsylew/COMM2216-User-Doc/blob/gh-pages/assets/images/10-New-character-style.png?raw=true "New Character Style")
 
-10. Double click on the newly created [Character Style 1] option and the "Character Style Options" window will appear.
+2. Double click on the newly created [Character Style 1] option and the "Character Style Options" window will appear.
 
     ![New Character Style Click](https://github.com/jsylew/COMM2216-User-Doc/blob/gh-pages/assets/images/10-New-character-style2.png?raw=true "Create New Character Style")
 
-11. Under the [General] tab, you can customize the style name.  In this tutorial we will name the style 'Bold Red'.
+3. Under the [General] tab, you can customize the style name.  In this tutorial we will name the style 'Bold Red'.
 
     ![General Character Style](https://github.com/jsylew/COMM2216-User-Doc/blob/gh-pages/assets/images/11-Char-style-gen.png?raw=true "General Character Style Tab")
 
-12. Navigate to the [Basic Character Formats] tab to change font family to 'Lato' and font style to 'bold'.
+4. Navigate to the [Basic Character Formats] tab to change font family to 'Lato' and font style to 'bold'.
 
-    ![Basic Character Style](https://github.com/jsylew/COMM2216-User-Doc/blob/gh-pages/assets/images/11-Char-style-basic.png?raw=true "Basic Character Style Tab")
+    ![Basic Character Style](https://github.com/jsylew/COMM2216-User-Doc/blob/gh-pages/assets/images/12-Char-style-basic.png?raw=true "Basic Character Style Tab")
 
-13. Navigate to the [Character Colour] tab and select the text colour red, for this example.
+5. Navigate to the [Character Colour] tab and select the text colour red, for this example.
 
-    ![Character Style Colour](https://github.com/jsylew/COMM2216-User-Doc/blob/gh-pages/assets/images/11-Char-style-colour.png?raw=true "Character Style Colour Tab")
+    ![Character Style Colour](https://github.com/jsylew/COMM2216-User-Doc/blob/gh-pages/assets/images/13-Char-style-colour.png?raw=true "Character Style Colour Tab")
 
-14. Click <b>OK</b> in the bottom right corner of the window to save your new character style.  
+6. Click <b>OK</b> in the bottom right corner of the window to save your new character style.  
 
-    When your finished 'Bold Red' character style is applied to text it should look like the word 'Bacon' in the image below.
+    When your finished 'Bold Red' character style is applied to text it should look like the word 'Bacon' in the sample image below.
 
-    ![Final Character style](https://github.com/jsylew/COMM2216-User-Doc/blob/gh-pages/assets/images/14Cchar-style-sample.png?raw=true "Final Character Style Red Bold")
+    ![Final Character style](https://github.com/jsylew/COMM2216-User-Doc/blob/gh-pages/assets/images/14-Char-style-sample.png?raw=true "Final Character Style Red Bold")
 
 
