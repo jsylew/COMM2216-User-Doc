@@ -4,146 +4,22 @@ title: Glossary
 nav_order: 99
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+# Glossary
 
-[Link to another page](another-page).
+Here are some design terms used in this document.
 
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
-# [](#header-1)Header 1
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
-## [](#header-2)Header 2
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### [](#header-3)Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### [](#header-4)Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### [](#header-5)Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### [](#header-6)Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Nesting an ol in ul in an ol
-
-- level 1 item (ul)
-  1. level 2 item (ol)
-  1. level 2 item (ol)
-    - level 3 item (ul)
-    - level 3 item (ul)
-- level 1 item (ul)
-  1. level 2 item (ol)
-  1. level 2 item (ol)
-    - level 3 item (ul)
-    - level 3 item (ul)
-  1. level 4 item (ol)
-  1. level 4 item (ol)
-    - level 3 item (ul)
-    - level 3 item (ul)
-- level 1 item (ul)
-
-### And a task list
-
-- [ ] Hello, this is a TODO item
-- [ ] Hello, this is another TODO item
-- [x] Goodbye, this item is done
-
-### Small image
-
-![](https://assets-cdn.github.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
+- **Bleed:** The area that extends beyond the page that is trimmed off when the page is printed. It is used to ensure the ink goes right to the edge of the page.
+  - **Bleed Line:** The line where the bleed ends. In InDesign, it is shown as a red border around the page.
+- **Facing Pages / Spread:** Pages that sit beside each other and can have graphics spanning over them; for example, page 2 and 3 in a booklet are facing pages or a spread.
+- **Font Family:** A set of fonts in different weights. One example of a font family is Helvetica.
+- **Font Style:** In InDesign, this is seperated into paragrph styles and character styles.
+  - **Character Style:** This controls the characteristics of characters, words, or phrases.
+  - **Paragraph Style:** This controls the characteristics of entire paragraphs of text.
+- **Font Weight:** The boldness of the font. This is usually denoted by categories like Light, Regular, Heavy.
+- **Leading:** The space between lines of text. The bigger the leading is, the larger the space is.
+- **Margin Line:** The line where the margin starts. It is shown as a pink-purple border inside the page and can be customized based on the design. The standard minimum is 0.125" to ensure nothing important gets trimmed off the page.
+- **Pasteboard:** A "sandbox" area where you can put images or other assets while you work on your design. Things that only touch the pasteboard will not be printed.
+- **PPI:** Pixels Per Inch is the unit of measurement used for image resolution.
+  - **Actual PPI:** The PPI of an image at full size.
+  - **Effective PPI:** The PPI of an resized image. It goes up when an image increases in size, and goes down when an image decreases in size.
+- **Saddlestitch:** One of the most common ways of printing a booklet. Pages are folded in half to create 4 pages and the booklet is stapled together in the middle which forms the spine.
