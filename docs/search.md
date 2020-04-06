@@ -33,6 +33,6 @@ nav_order: 12
     
 ## The PDF I placed has a white background but it shows up transparent. How do I turn off the transparency?
 
-  When you place the PDF, uncheck the **[Transparency] box.
+  When you place the PDF, uncheck the **[Transparency Background]** box.
 
   ![Place Transparency](https://github.com/jsylew/COMM2216-User-Doc/blob/gh-pages/assets/images/Troubleshoot03.png?raw=true "Place Transparency")
