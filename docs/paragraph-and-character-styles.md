@@ -14,9 +14,9 @@ nav_order: 10
 
 ---
 
-These instructions will explain how to set up your own paragraph and character styles in Adobe InDesign.  This will allow you to create consistent design elements throughout your document, and to easily make changes to those design elements.
+These instructions will explain how to set up your own paragraph and character styles in Adobe InDesign.  This will allow you to create consistent text elements throughout your document, and to easily make changes to those text elements as a group.
 
-1. Turn on <b>Paragraph Styles</b> and <b>Character Styles</b> by navigating to <b>Window > Styles > Paragraph Styles</b>.  This will enable the toolbars.
+1. Turn on <b>Paragraph Styles</b> and <b>Character Styles</b> by navigating to `[Window] > [Styles] > [Paragraph Styles]`.  This will enable the toolbars.
 
     ![Toolbars](https://github.com/jsylew/COMM2216-User-Doc/blob/gh-pages/assets/images/14-Paragraph02.png?raw=true "Toolbars")
 
