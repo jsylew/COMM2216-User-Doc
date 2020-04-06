@@ -15,7 +15,7 @@ nav_order: 12
 
 ---
 
-1. My pages are not facing each other. How do I fix it?
+## My pages are not facing each other. How do I fix it?
 
    Go to `[File] > [Document Setup]`.
 
@@ -25,8 +25,9 @@ nav_order: 12
 
    ![Facing Pages](https://github.com/jsylew/COMM2216-User-Doc/blob/gh-pages/assets/images/Troubleshoot02.png?raw=true "Facing Pages")
 
-2. My exported PDF shows facing pages together. How do I make it export as single pages?
+## My exported PDF shows facing pages together. How do I make it export as single pages?
 
     In the export screen, make sure the **[Pages]** box and not the **[Spreads]** box is checked.
     
     ![Export](https://github.com/jsylew/COMM2216-User-Doc/blob/gh-pages/assets/images/09-Export2.png?raw=true "Export")
+    
