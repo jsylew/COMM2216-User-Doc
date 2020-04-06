@@ -19,7 +19,7 @@ Here are some design terms used in this document.
 - **Leading:** The space between lines of text. The bigger the leading is, the larger the space is.
 - **Margin Line:** The line where the margin starts. It is shown as a pink-purple border inside the page and can be customized based on the design. The standard minimum is 0.125" to ensure nothing important gets trimmed off the page.
 - **Pasteboard:** A "sandbox" area where you can put images or other assets while you work on your design. Things that only touch the pasteboard will not be printed.
-- **PPI:** Pixels Per Inch is the unit of measurement used for image resolution.
+- **PPI:** Pixels Per Inch is the unit of measurement used for image resolution. The standard for print is minimum 300 PPI and minimum 72 PPI for web.
   - **Actual PPI:** The PPI of an image at full size.
   - **Effective PPI:** The PPI of an resized image. It goes up when an image increases in size, and goes down when an image decreases in size.
 - **Saddlestitch:** One of the most common ways of printing a booklet. Pages are folded in half to create 4 pages and the booklet is stapled together in the middle which forms the spine.
