@@ -8,7 +8,7 @@ permalink: /
 
 # Introduction
 ---
-The purpose of this manual is to help you create a print-ready booklet using Adobe InDesign.  There are three sections which will assist you in creating the document with the correct parameters for printing standards, styling your document text and inserting media files.  
+The purpose of this manual is to teach you how to create a print-ready booklet using Adobe InDesign.  There are three sections which will assist you in creating the document with the correct parameters for printing standards, styling your document text and inserting media files.  
 
 Adobe InDesign is a subscription based software used to create digital and print media.  It is widely used as a professional design tool, educational tool and for personal projects, alongside the many other creative platforms that adobe offers.
 
