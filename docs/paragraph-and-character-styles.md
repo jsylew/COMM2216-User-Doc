@@ -41,7 +41,7 @@ These instructions will explain how to set up your own paragraph and character s
 * Size - 30 pt
 * Leading Space - 38 pt
 
-The values given above are specified for the purpose of following this example. You can customize the characteristics to suit the needs of your own project.
+    The values given above are specified for the purpose of following this example. You can customize the characteristics to suit the needs of your own project.
 
     ![Paragraph Formats](https://github.com/jsylew/COMM2216-User-Doc/blob/gh-pages/assets/images/18-Paragraph06.png?raw=true "Paragraph Formats")
 
@@ -51,7 +51,7 @@ The values given above are specified for the purpose of following this example. 
 * Space After - 0 in
 * Space Between Paragraphs Using Same Style - Ignore
 
-The values given above are specified for the purpose of following this example. You can customize the characteristics to suit the needs of your own project.
+    The values given above are specified for the purpose of following this example. You can customize the characteristics to suit the needs of your own project.
 
     ![Indents and Spacing](https://github.com/jsylew/COMM2216-User-Doc/blob/gh-pages/assets/images/19-Paragraph07.png?raw=true "Indents and Spacing")
 
@@ -87,7 +87,7 @@ The values given above are specified for the purpose of following this example. 
 
 14. Click <b>OK</b> in the bottom right corner of the window to save your new character style.  
 
-When your finished 'Bold Red' character style is applied to text it should look like the word 'Bacon' in the image below.
+    When your finished 'Bold Red' character style is applied to text it should look like the word 'Bacon' in the image below.
 
     ![Final Character style](https://github.com/jsylew/COMM2216-User-Doc/blob/gh-pages/assets/images/14Cchar-style-sample.png?raw=true "Final Character Style Red Bold")
 
