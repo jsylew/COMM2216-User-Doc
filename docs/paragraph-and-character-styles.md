@@ -41,7 +41,7 @@ These instructions will explain how to set up your own paragraph and character s
 * Size - 30 pt
 * Leading Space - 38 pt
 
-The values given above are specified for the purpose of following this example. You can customize the characteristics to suit the needs of your own project.
+    The values given above are specified for the purpose of following this example. You can customize the characteristics to suit the needs of your own project.
 
     ![Paragraph Formats](https://github.com/jsylew/COMM2216-User-Doc/blob/gh-pages/assets/images/18-Paragraph06.png?raw=true "Paragraph Formats")
 
@@ -51,7 +51,7 @@ The values given above are specified for the purpose of following this example. 
 * Space After - 0 in
 * Space Between Paragraphs Using Same Style - Ignore
 
-The values given above are specified for the purpose of following this example. You can customize the characteristics to suit the needs of your own project.
+    The values given above are specified for the purpose of following this example. You can customize the characteristics to suit the needs of your own project.
 
     ![Indents and Spacing](https://github.com/jsylew/COMM2216-User-Doc/blob/gh-pages/assets/images/19-Paragraph07.png?raw=true "Indents and Spacing")
 
@@ -61,7 +61,7 @@ The values given above are specified for the purpose of following this example. 
 
 8. Click <b>OK</b> on the bottom right side of the Paragraph Style Options window to save your styling choices for your new Paragraph Style.
 
-When your finished 'Heading 1' paragraph style is applied to text it should look like the title 'Heading 1' in the sample image below.
+    When your finished 'Heading 1' paragraph style is applied to text it should look like the title 'Heading 1' in the sample image below.
 
     ![Heading 1](https://github.com/jsylew/COMM2216-User-Doc/blob/gh-pages/assets/images/heading1.png?raw=true "Paragraph Style Sample")
 
