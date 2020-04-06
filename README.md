@@ -6,7 +6,7 @@ InDesign is a leading graphics design software used in industry today. Because o
 
 Printed booklets are still widely used, and even crucial, for many applications, despite the rise in digital media in recent years. Booklets are often used for event or show programs, submitting physical reports and guide books for tourist destinations. It is very important that users designing these booklets have an understanding of the differences between designing a document for printing purposes and designing a document to be consumed in digital world. These instructions introduce a beginner Adobe InDesign user to the fundamentals and acceptable standards that should be followed when designing print media.
 
-## Instruction Implementation
+## The Manual Implementation Details
 
 These instructions were written using a wide variety of features offered by Markdown language such as:
 
