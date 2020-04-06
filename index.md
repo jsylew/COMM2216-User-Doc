@@ -47,6 +47,7 @@ The instructions will use the following typographic conventions
 |Menu Selection Sequences| [File] > [Save As]|
 |Dialog Windows|"New Document Window"|
 |Labels|<b>[Pages]</b>, <b>[Columns]</b>|
+|Tab Names|[General], [Style]|
 
 ## Conclusion
 
