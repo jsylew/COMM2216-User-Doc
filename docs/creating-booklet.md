@@ -29,19 +29,19 @@ In this section, you will be able to create and export a Print-Ready booklet usi
 
     ![Select Print](https://github.com/jsylew/COMM2216-User-Doc/blob/gh-pages/assets/images/02-New-doc2.png?raw=true "Set Print Media")
 
-4. Fill in your <b>Project Details</b> in the form on the right side:
-* Type in the name of your project.
-* Check that width and height are set to match the document size selected in <b>Step 2</b>.
-* Set units to Inches.
-* Select orientation. (these instructions will use portrait)
-* Check the <b>Facing Pages</b> box.
-* Select the number of pages needed for your booklet.
-    > <b>Note:</b> The number of pages for printing a booklet must be a multiple of 4. (4, 8, 12, etc.)
+4. Fill in your <b>[Preset Details]</b> in the form on the right side:
+* Type in the name of your project at the top of the form.
+* Check that <b>[width]</b> and <b>[height]</b> are set to match the document size selected in <b>Step 2</b>.
+* Set <b>[Units]</b> to Inches.
+* Select <b>[Orientation]</b> - these instructions will continue with portrait
+* Check the <b>[Facing Pages]</b> box.
+* Select the number of pages needed for your booklet, under <b>[Pages]</b>.
+><b>Note:</b> The number of pages for printing a booklet must be a multiple of 4. (4, 8, 12, etc.)
 
     ![Project Details](https://github.com/jsylew/COMM2216-User-Doc/blob/gh-pages/assets/images/02-New-doc3.png?raw=true "Set Project Details")
 
-5. Select the <b>Bleed and Slug</b> drop-down menu in the right panel and set the bleed distance on all sides to 0.125 inches.
-    > <b>Note:</b> Providing a bleed tells the printer where the edge of the page will be to allow the ink to cover the whole page, right up to the edge. The standard minimum bleed distance is 0.125 inches. This is the value that will be used in these instructions.
+5. Select the <b>[Bleed and Slug]</b> drop-down menu in the right panel and set the bleed distance on all sides to 0.125 inches.
+><b>Note:</b> Providing a bleed tells the printer where the edge of the page will be to allow the ink to cover the whole page, right up to the edge. The standard minimum bleed distance is 0.125 inches. This is the value that will be used in these instructions.
 
     ![Bleed](https://github.com/jsylew/COMM2216-User-Doc/blob/gh-pages/assets/images/03-Bleed.png?raw=true "Bleed")
 
@@ -51,26 +51,32 @@ In this section, you will be able to create and export a Print-Ready booklet usi
 
 7. [Optional] Adjust the size of the pasteboard under <b>InDesign > Preferences > Guides & Pasteboard.</b>
 
-    ![Pasteboard](https://github.com/jsylew/COMM2216-User-Doc/blob/gh-pages/assets/images/07-Pasteboard.png?raw=true "Adjust Pasteboard")
+The pasteboard is space to store design elements before placing them within the document. You can adjust the size for your project needs.
 
-8. Go to <b>File > Export</b> and the following window should appear.  Name your project in the <b>Save As</b> box, check that the specified format is <b>Adobe PDF (Print)</b> and click on the <b>Save</b> button in the bottom right.
-    > <b>Note:</b> Printers most commonly request PDF file type for booklet printing.
+    ![Pasteboard](https://github.com/jsylew/COMM2216-User-Doc/blob/gh-pages/assets/images/07-Pasteboard.png?raw=true "Adjust Pasteboard")
+    
+8. Add design components to your booklet. For this example, some basic text has been added to each page. For more information on formatting your booklet design elements, see the next two sections of the manual: "Setting Up and Using Paragraph and Character Styles" and "Placing Images and PDFs in a File".
+
+    ![Booklet Layout](https://github.com/jsylew/COMM2216-User-Doc/blob/gh-pages/assets/images/04-Sample-4pg-layout.png?raw=true "Four Page Booklet Layout")
+
+9. Go to <b>File > Export</b> and the following window should appear.  Name your project in the <b>Save As</b> box, check that the specified format is <b>Adobe PDF (Print)</b> and click on the <b>Save</b> button in the bottom right.
+> <b>Note:</b> Printers most commonly request PDF file type for booklet printing.
 
     ![Save As](https://github.com/jsylew/COMM2216-User-Doc/blob/gh-pages/assets/images/08-Export.png?raw=true "Save As")
 
-9. The <b>Export Adobe PDF</b> window will appear.  Choose <b>[Press Quality]</b> in the Adobe PDF Preset box and under the Pages box, select <b>All</b> and Export as <b>Pages</b>.
+10. The "Export Adobe PDF" window will appear.  Choose <b>[Press Quality]</b> in the <b>[Adobe PDF Preset]</b> box and under the <b>[Pages]</b> section, select <b>All</b> and Export as <b>Pages</b>.
 
     ![Export](https://github.com/jsylew/COMM2216-User-Doc/blob/gh-pages/assets/images/09-Export2.png?raw=true "Export")
 
-10. Navigate to the <b>Marks and Bleeds</b> tab on the left side of the same window.  Under the Marks box, select <b>Crop Marks</b> and under the Bleed and Slug box, select <b>Use Document Bleed Settings</b>.
+11. Navigate to the <b>Marks and Bleeds</b> tab on the left side of the same window.  Under the Marks box, select <b>Crop Marks</b> and under the Bleed and Slug box, select <b>Use Document Bleed Settings</b>.
 
     ![Marks and Bleeds](https://github.com/jsylew/COMM2216-User-Doc/blob/gh-pages/assets/images/10-Export3.png?raw=true "Marks and Bleeds")
 
-11. Click the <b>Export</b> button to export your booklet as a pdf.
+12. Click the <b>Export</b> button to export your booklet as a pdf.
 
     ![Final Export](https://github.com/jsylew/COMM2216-User-Doc/blob/gh-pages/assets/images/10-Export3-2.png?raw=true "Final Export")
 
-12. Your exported PDF should look something like this.
+At the end of these instructions, your exported booklet should like like the following image when opened in your PDF viewer.
     ><b>Note:</b> Notice the crop marks at the 4 corners of the page.
 
     ![Booklet Sample](https://github.com/jsylew/COMM2216-User-Doc/blob/gh-pages/assets/images/11-Export4.png?raw=true "Sample PDF")
