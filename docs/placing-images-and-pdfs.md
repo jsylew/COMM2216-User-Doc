@@ -52,6 +52,8 @@ The following instructions will outline the steps for adding images and external
 
 7. Select the <b>Show Import Options</b> box and click <b>Open</b>. The "Place PDF" window should appear.
 
+    ><b>Note:</b> If the check boxes are not available, click the <b>Options</b> button to display them.
+
     ![PDF Options](https://github.com/jsylew/COMM2216-User-Doc/blob/gh-pages/assets/images/05-Place-PDF2.png?raw=true "Placing PDF Options")
 
 8. Select which pages of the selected PDF you would like to add to the document under the [Pages] section of the "Place PDF" window.
