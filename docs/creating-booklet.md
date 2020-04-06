@@ -37,13 +37,13 @@ In this section, you will be able to create and export a Print-Ready booklet usi
 * Check the <b>[Facing Pages]</b> box.
 * Select the number of pages needed for your booklet, under <b>[Pages]</b>.
 
-><b>Note:</b> The number of pages for printing a booklet must be a multiple of 4. (4, 8, 12, etc.)
+    ><b>Note:</b> The number of pages for printing a booklet must be a multiple of 4. (4, 8, 12, etc.)
 
     ![Project Details](https://github.com/jsylew/COMM2216-User-Doc/blob/gh-pages/assets/images/02-New-doc3.png?raw=true "Set Project Details")
 
 5. Select the <b>[Bleed and Slug]</b> drop-down menu at the bottom of the right panel and set the bleed distance on all sides to 0.125 inches.
 
-><b>Note:</b> Providing a bleed tells the printer where the edge of the page will be to allow the ink to cover the whole page, right up to the edge. The standard minimum bleed distance is 0.125 inches. This is the value that will be used in these instructions.
+    ><b>Note:</b> Providing a bleed tells the printer where the edge of the page will be to allow the ink to cover the whole page, right up to the edge. The standard minimum bleed distance is 0.125 inches. This is the value that will be used in these instructions.
 
     ![Bleed](https://github.com/jsylew/COMM2216-User-Doc/blob/gh-pages/assets/images/03-Bleed.png?raw=true "Bleed")
 
@@ -51,9 +51,7 @@ In this section, you will be able to create and export a Print-Ready booklet usi
 
     ![Create](https://github.com/jsylew/COMM2216-User-Doc/blob/gh-pages/assets/images/02-New-doc4.png?raw=true "Create Project")
 
-7. [Optional] Adjust the size of the pasteboard under <b>InDesign > Preferences > Guides & Pasteboard.</b>
-
-The pasteboard is space to store design elements before placing them within the document. You can adjust the size for your project needs.
+7. [Optional] Adjust the size of the pasteboard under <b>InDesign > Preferences > Guides & Pasteboard.</b> The pasteboard is space to store design elements before placing them within the document. You can adjust the size for your project needs.
 
     ![Pasteboard](https://github.com/jsylew/COMM2216-User-Doc/blob/gh-pages/assets/images/07-Pasteboard.png?raw=true "Pasteboard")
     
@@ -62,7 +60,7 @@ The pasteboard is space to store design elements before placing them within the 
     ![Booklet Layout](https://github.com/jsylew/COMM2216-User-Doc/blob/gh-pages/assets/images/04-Sample-4pg-layout.png?raw=true "Four Page Booklet Layout")
 
 9. Go to <b>File > Export</b> and the following window should appear.  Name your project in the <b>Save As</b> box, check that the specified format is <b>Adobe PDF (Print)</b> and click on the <b>Save</b> button in the bottom right.
-> <b>Note:</b> Printers most commonly request PDF file type for booklet printing.
+    ><b>Note:</b> Printers most commonly request PDF file type for booklet printing.
 
     ![Save As](https://github.com/jsylew/COMM2216-User-Doc/blob/gh-pages/assets/images/08-Export.png?raw=true "Save As")
 
@@ -79,7 +77,6 @@ The pasteboard is space to store design elements before placing them within the 
     ![Final Export](https://github.com/jsylew/COMM2216-User-Doc/blob/gh-pages/assets/images/10-Export3-2.png?raw=true "Final Export")
 
 At the end of these instructions, your exported booklet should like like the following image when opened in your PDF viewer.
-    ><b>Note:</b> Notice the crop marks at the 4 corners of the page.
-
-    ![Booklet Sample](https://github.com/jsylew/COMM2216-User-Doc/blob/gh-pages/assets/images/11-Export4.png?raw=true "Sample PDF")
+   > <b>Note:</b> Notice the crop marks at the 4 corners of the page.
+   ![Booklet Sample](https://github.com/jsylew/COMM2216-User-Doc/blob/gh-pages/assets/images/11-Export4.png?raw=true "Sample PDF")
 
