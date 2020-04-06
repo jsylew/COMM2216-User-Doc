@@ -23,7 +23,7 @@ These instructions will explain how to set up your own paragraph and character s
 ## Setting Up a New Paragraph Style
 > <b>Note:</b> Paragraph styles are applied to entire paragraphs of text.
 
-2. Highlight the text that you want to apply a new Paragraph Style to and click on the <b>[+]</b> icon at the bottom right corner of the tool window. <b>[Paragraph Style 1]</b> should appear at the bottom of the list under the <b>[Paragraph Styles]</b> tab.
+2. Highlight the text that you want to apply a new Paragraph Style to and click on the <b>[+]</b> icon at the bottom right corner of the tool window. <b>[Paragraph Style 1]</b> should appear at the bottom of the list under the [Paragraph Styles] tab.
 
     ![Add Style](https://github.com/jsylew/COMM2216-User-Doc/blob/gh-pages/assets/images/15-Paragraph03.png?raw=true "Add Style")
 
@@ -35,7 +35,7 @@ These instructions will explain how to set up your own paragraph and character s
 
     ![Paragraph Style Name](https://github.com/jsylew/COMM2216-User-Doc/blob/gh-pages/assets/images/17-Paragraph05.png?raw=true "Paragraph Style Name")
 
-5. Navigate to the <b>Basic Character Formats</b> tab and set the following characteristics:
+5. Navigate to the [Basic Character Formats] tab and set the following characteristics:
 * Font Family - Lato
 * Font Style - Light
 * Size - 30 pt
@@ -45,7 +45,7 @@ These instructions will explain how to set up your own paragraph and character s
 
     ![Paragraph Formats](https://github.com/jsylew/COMM2216-User-Doc/blob/gh-pages/assets/images/18-Paragraph06.png?raw=true "Paragraph Formats")
 
-6. Navigate to the <b>Indents and Spacing</b> tab and set the following characteristics:
+6. Navigate to the [Indents and Spacing] tab and set the following characteristics:
 * Alignment - Left
 * Space Before - 0 in
 * Space After - 0 in
@@ -55,7 +55,7 @@ These instructions will explain how to set up your own paragraph and character s
 
     ![Indents and Spacing](https://github.com/jsylew/COMM2216-User-Doc/blob/gh-pages/assets/images/19-Paragraph07.png?raw=true "Indents and Spacing")
 
-7. Navigate to the <b>Character Color</b> tab and set the text colour to black.
+7. Navigate to the [Character Color] tab and set the text colour to black.
 
     ![Character color](https://github.com/jsylew/COMM2216-User-Doc/blob/gh-pages/assets/images/20-Paragraph08.png?raw=true "Character Color")
 
