@@ -31,16 +31,18 @@ In this section, you will be able to create and export a Print-Ready booklet usi
 
 4. Fill in your <b>[Preset Details]</b> in the form on the right side:
 * Type in the name of your project at the top of the form.
-* Check that <b>[width]</b> and <b>[height]</b> are set to match the document size selected in <b>Step 2</b>.
+* Check that <b>[Width]</b> and <b>[Height]</b> are set to match the document size selected in <b>Step 2</b>.
 * Set <b>[Units]</b> to Inches.
 * Select <b>[Orientation]</b> - these instructions will continue with portrait
 * Check the <b>[Facing Pages]</b> box.
 * Select the number of pages needed for your booklet, under <b>[Pages]</b>.
+
 ><b>Note:</b> The number of pages for printing a booklet must be a multiple of 4. (4, 8, 12, etc.)
 
     ![Project Details](https://github.com/jsylew/COMM2216-User-Doc/blob/gh-pages/assets/images/02-New-doc3.png?raw=true "Set Project Details")
 
-5. Select the <b>[Bleed and Slug]</b> drop-down menu in the right panel and set the bleed distance on all sides to 0.125 inches.
+5. Select the <b>[Bleed and Slug]</b> drop-down menu at the bottom of the right panel and set the bleed distance on all sides to 0.125 inches.
+
 ><b>Note:</b> Providing a bleed tells the printer where the edge of the page will be to allow the ink to cover the whole page, right up to the edge. The standard minimum bleed distance is 0.125 inches. This is the value that will be used in these instructions.
 
     ![Bleed](https://github.com/jsylew/COMM2216-User-Doc/blob/gh-pages/assets/images/03-Bleed.png?raw=true "Bleed")
@@ -53,7 +55,7 @@ In this section, you will be able to create and export a Print-Ready booklet usi
 
 The pasteboard is space to store design elements before placing them within the document. You can adjust the size for your project needs.
 
-    ![Pasteboard](https://github.com/jsylew/COMM2216-User-Doc/blob/gh-pages/assets/images/07-Pasteboard.png?raw=true "Adjust Pasteboard")
+    ![Pasteboard](https://github.com/jsylew/COMM2216-User-Doc/blob/gh-pages/assets/images/07-Pasteboard.png?raw=true "Pasteboard")
     
 8. Add design components to your booklet. For this example, some basic text has been added to each page. For more information on formatting your booklet design elements, see the next two sections of the manual: "Setting Up and Using Paragraph and Character Styles" and "Placing Images and PDFs in a File".
 
