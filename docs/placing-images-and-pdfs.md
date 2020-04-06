@@ -36,7 +36,7 @@ The following instructions will outline the steps for adding images and external
   ![Image Change](https://github.com/jsylew/COMM2216-User-Doc/blob/gh-pages/assets/images/04-Frame-mask.png?raw=true "Change Image Size")
 
 5. Click on your image and navigate to the [Links] panel. Check the [Effective PPI] value and consider decreasing your image size if it is less than 300 PPI.
-><b>Note:</b> The minimum standard resolution for printed images is 300 PPI (pixels per inch).
+  ><b>Note:</b> The minimum standard resolution for printed images is 300 PPI (pixels per inch).
 
   ![Place](https://github.com/jsylew/COMM2216-User-Doc/blob/gh-pages/assets/images/07-Link.png?raw=true "Placing Image")
 
