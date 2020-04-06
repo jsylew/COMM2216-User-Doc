@@ -30,7 +30,7 @@ The following instructions will outline the steps for adding images and external
 
     Images in InDesign are placed into a frame. A single click on the image will select the frame for resizing and a double click on the image will select the image itself. Changing the size of the frame will change the amount of space that the image can occupy on the page.  Changing the size of the image will change how much of the image is visible within its frame.
 
-    The first image right shows a change in the size of the frame, depicted here by the black line.  The second image shows a change in the size of the image within the frame, as a more zoomed in view of the shark is displayed. 
+    The first image shows a change in the size of the frame, depicted here by the black line.  The second image shows a change in the size of the image within the frame, as a more zoomed in view of the shark is displayed. 
   
     ![Frame Change](https://github.com/jsylew/COMM2216-User-Doc/blob/gh-pages/assets/images/03-Frame-border.png?raw=true "Change Frame Size")
     ![Image Change](https://github.com/jsylew/COMM2216-User-Doc/blob/gh-pages/assets/images/04-Frame-mask.png?raw=true "Change Image Size")
