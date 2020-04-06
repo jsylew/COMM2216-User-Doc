@@ -51,7 +51,7 @@ In this section, you will be able to create and export a Print-Ready booklet usi
 
     ![Create](https://github.com/jsylew/COMM2216-User-Doc/blob/gh-pages/assets/images/02-New-doc4.png?raw=true "Create Project")
 
-7. [Optional] Adjust the size of the pasteboard under `[InDesign] > [Preferences] > [Guides & Pasteboard]`.</b>
+7. [Optional] Adjust the size of the pasteboard under `[InDesign] > [Preferences] > [Guides & Pasteboard]`.
 
     The pasteboard is space to store design elements before placing them within the document. You can adjust the size for your project needs.
 
@@ -66,11 +66,15 @@ In this section, you will be able to create and export a Print-Ready booklet usi
 
     ![Save As](https://github.com/jsylew/COMM2216-User-Doc/blob/gh-pages/assets/images/08-Export.png?raw=true "Save As")
 
-10. The "Export Adobe PDF" window will appear.  Choose <b>[Press Quality]</b> in the <b>[Adobe PDF Preset]</b> box and under the <b>[Pages]</b> section, select <b>All</b> and Export as <b>Pages</b>.
+10. The "Export Adobe PDF" window will appear.  
+* Choose <b>[Press Quality]</b> in the <b>[Adobe PDF Preset]</b> box 
+* Select <b>All</b> and Export as <b>Pages</b> under the [Pages]section
 
     ![Export](https://github.com/jsylew/COMM2216-User-Doc/blob/gh-pages/assets/images/09-Export2.png?raw=true "Export")
 
-11. Navigate to the <b>Marks and Bleeds</b> tab on the left side of the same window.  Under the Marks box, select <b>Crop Marks</b> and under the Bleed and Slug box, select <b>Use Document Bleed Settings</b>.
+11. Navigate to the <b>Marks and Bleeds</b> tab on the left side of the same window.  
+* Select <b>Crop Marks</b> under the [Marks] section
+* Select <b>Use Document Bleed Settings</b> under the [Bleed and Slug] section 
 
     ![Marks and Bleeds](https://github.com/jsylew/COMM2216-User-Doc/blob/gh-pages/assets/images/10-Export3.png?raw=true "Marks and Bleeds")
 
