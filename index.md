@@ -35,7 +35,7 @@ The following instructions will use:
 * Adobe InDesign 2020
 * MAC OS  
 
-The instructions translate well to Windows OS with only slight variations in menu titles and keyboard short cuts.
+The instructions translate well to Windows OS with only slight variations in menu titles and keyboard short cuts. For the purpose of these instructions, it is assumed that Adobe InDesign has already been installed on your computer.
 
 ## Typographical Conventions
 
