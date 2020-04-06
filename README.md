@@ -1,6 +1,6 @@
 ## The Importance of Adobe InDesign
 
-InDesign is a leading graphics design software used in industry today. Because of its vast features, it is important to give beginner users a very detailed walk-through, as it is very easy to feel lost at first. These instructions give the reader thorough instructions and produce and impressive and satisfying end result.
+InDesign is a leading graphics design software used in industry today. Because of its vast features, it is important to give beginner users a very detailed walk-through, as it is very easy to feel lost at first. These instructions give the reader thorough instructions and produce an impressive and satisfying end result.
 
 ## The Importance of Print-Ready Booklets
 
