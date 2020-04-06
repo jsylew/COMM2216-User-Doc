@@ -51,7 +51,7 @@ In this section, you will be able to create and export a Print-Ready booklet usi
 
     ![Create](https://github.com/jsylew/COMM2216-User-Doc/blob/gh-pages/assets/images/02-New-doc4.png?raw=true "Create Project")
 
-7. [Optional] Adjust the size of the pasteboard under <b>InDesign > Preferences > Guides & Pasteboard.</b>
+7. [Optional] Adjust the size of the pasteboard under `[InDesign] > [Preferences] > [Guides & Pasteboard]`.</b>
 
     The pasteboard is space to store design elements before placing them within the document. You can adjust the size for your project needs.
 
@@ -61,7 +61,7 @@ In this section, you will be able to create and export a Print-Ready booklet usi
 
     ![Booklet Layout](https://github.com/jsylew/COMM2216-User-Doc/blob/gh-pages/assets/images/04-Sample-4pg-layout.png?raw=true "Four Page Booklet Layout")
 
-9. Go to [File] > [Export] and the following window should appear.  Name your project in the <b>Save As</b> box, check that the specified format is <b>Adobe PDF (Print)</b> and click on the <b>Save</b> button in the bottom right.
+9. Go to `[File] > [Export]` and the following window should appear.  Name your project in the <b>Save As</b> box, check that the specified format is <b>Adobe PDF (Print)</b> and click on the <b>Save</b> button in the bottom right.
     > <b>Note:</b> Printers most commonly request PDF file type for booklet printing.
 
     ![Save As](https://github.com/jsylew/COMM2216-User-Doc/blob/gh-pages/assets/images/08-Export.png?raw=true "Save As")
