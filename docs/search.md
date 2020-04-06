@@ -27,7 +27,12 @@ nav_order: 12
 
 ## My exported PDF shows facing pages together. How do I make it export as single pages?
 
-    In the export screen, make sure the **[Pages]** box and not the **[Spreads]** box is checked.
+  In the export screen, make sure the **[Pages]** box and not the **[Spreads]** box is checked.
     
-    ![Export](https://github.com/jsylew/COMM2216-User-Doc/blob/gh-pages/assets/images/09-Export2.png?raw=true "Export")
+  ![Export](https://github.com/jsylew/COMM2216-User-Doc/blob/gh-pages/assets/images/09-Export2.png?raw=true "Export")
     
+## The PDF I placed has a white background but it shows up transparent. How do I turn off the transparency?
+
+  When you place the PDF, uncheck the **[Transparency] box.
+
+  ![Place Transparency](https://github.com/jsylew/COMM2216-User-Doc/blob/gh-pages/assets/images/Troubleshoot03.png?raw=true "Place Transparency")
